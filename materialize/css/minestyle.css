@@ -1,0 +1,57 @@
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+
+h3 {
+   font-size: 15px; 
+}
+
+main ul li {
+    display: inline-block;
+}
+
+main ul {
+    margin-bottom: 50px;
+}
+
+.parallax-container {
+    height: 200px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+section {
+    padding-left: 15%;
+    padding-right: 15%;
+    margin: 70px 0;
+}
+
+.card-title {
+    background-color: rgba(0,0,0,0.7);
+    padding: 5px !important;
+    margin: 5px;
+}
+
+a {
+    color: white;
+}
